@@ -1,0 +1,40 @@
+sudo apt-get update
+
+sudo apt-get install libleptonica-dev tesseract-ocr tesseract-ocr-dev libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
+
+sudo apt-get install tesseract-ocr
+
+sudo apt install tesseract-ocr -y
+
+sudo apt install tesseract-ocr-heb
+
+sudo apt install tesseract-ocr-all -y
+
+sudo apt install imagemagick
+
+sudo apt install libicu-dev libicu-dev libcairo2-dev
+
+sudo apt install libtesseract-dev -y
+
+sudo apt install ttf-mscorefonts-installer
+
+
+=================
+
+pip3 install pandas
+pip install tesseract
+pip install tesseract-ocr
+pip install pytesseract
+pip install opencv-python
+pip install openpyxl
+pip3 show pytesseract
+pip install pypdf2
+pip install tabula-py
+
+
+pytesseract.pytesseract.tesseract_cmd = 'C:/OCR/Tesseract-OCR/tesseract.exe'
+
+
+
+
+https://pages.hashtagtreinamentos.com/minicurso-python-analisededados-obrigado?blog=1n4033rer&video=1x6xbekpr
